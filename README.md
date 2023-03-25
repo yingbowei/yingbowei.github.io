@@ -1,4 +1,4 @@
-[Hux Blog](https://huangxuan.me)
+[小应の技术博客](https://yingbowei.github.io/)
 ================================
 
 > I never expect this becomes popular.

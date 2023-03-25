@@ -1,12 +1,12 @@
 # Site settings
-title: Weber Blog
-SEOTitle: 应博伟的博客 | Weber Blog
+title: 小应の技术博客
+SEOTitle: 小应の技术博客 | 应博伟的博客 | Weber Blog
 header-img: img/home-bg.jpg
 email: 15168099104@163.com
 description: "这里是 @Weber应博伟 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "应博伟, Weber应博伟, Weber, 应博伟的博客, Weber Blog, 博客, 个人网站, 互联网, Web, Java, Spring, 
+keyword: "应博伟, Weber应博伟, Weber, 小应の技术博客, 应博伟的博客, Weber Blog, 博客, 个人网站, 互联网, Web, Java, Spring, 
 Spring Boot, 后端"
-url: "https://huangxuan.me"  # your host, for absolute URL
+url: "https://yingbowei.github.io/"  # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -60,7 +60,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: weber
 
 # Netease settings
 netease_comment: false
@@ -70,12 +70,12 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+# ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
+# ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
+sidebar-about-description: "要做一个有 swag 的程序员"
 sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
